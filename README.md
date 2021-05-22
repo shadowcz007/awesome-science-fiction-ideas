@@ -1,24 +1,24 @@
-科幻构想绝赞清单
 awesome-science-fiction-ideas
+科幻构想清单
 
-该项目的目的：收集有开创性、独特性和影响力的科幻构想。
-以经典科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。
-同一部作品可有多个构想收录其中。
+感谢calon整理的[awesome-science-fiction-ideas](https://github.com/calon/awesome-science-fiction-ideas)，我做了些调整，目标是为使用AI等技术来生成科幻内容服务。收录范围，包括科幻小说、科幻展览、科幻影视、漫画、游戏和一些学术思考，同一部作品可有多个构想收录其中，增加了链接以备追溯来源。
 
-欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Discussions](https://github.com/calon/awesome-science-fiction-ideas/discussions) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
+欢迎通过[邮件](mailto:389570357@qq.com)、[Discussions](https://github.com/shadowcz007/awesome-science-fiction-ideas/discussions) 等渠道补充提交条目，共同丰富本清单。
 
 提交条目的基本格式：
 
 - 所属作品：
 - 主创人员：
 - 创意设定：
+- 链接：
 - - -
 
 如果要寻找值得一看的科幻作品，可以查看：[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)
 同时欢迎参与编辑“仰望星空”科幻微信群的[科幻电影/书籍/游戏推荐清单](https://shimo.im/docs/IVI6WXUgXswJnxe0)
 
-警告，以下内容涉及严重剧透！
-Spoiler Alert!
+
+
+
 
 # 众生
 
@@ -606,6 +606,15 @@ Spoiler Alert!
 ### 海上或海底城市
 
 ### 天空城市
+
+### 无名之城
+
+- 所属作品：基于科幻短片小说《九城万未》故事基础上创作的艺术作品
+- 主创人员：吴岩 陈娱 谢雨帆
+- 创意设定：描绘的是人类如何为了将城市占地交还给大自然，把地球重新变成一个自然的星体的探索过程。在经历了多个迷人但却烦恼的季节之后，人们不但找到了这种回归的方式。作品展现了四组完全属于未来的城市的超级形态，这些形态完全不符合物理学的基本规则，能自由潜入地下、或者急驰到无垠的天空，甚至还能依附其他的生物体内。在故事中所说的“水晶季”，地球奔向永恒之前的最后一个季节到来的时候，大地上人工制造的万物都开始真正的收缩，褪色，趋于透明……城市中的人，属于我们这一代的人类，也将伴随这种过程永远地逝去。但逝去并不意味着死亡。恰恰相反，它是一种诞生。新的自然-人之关系，新的城市-建筑之形式，将在宇宙的其他地方被自然地创造出来。
+- 链接：[介绍](https://www.sohu.com/a/377008121_687994)
+- - -
+
 
 ### 生物城市
 

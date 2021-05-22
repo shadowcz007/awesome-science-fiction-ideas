@@ -13,11 +13,6 @@ awesome-science-fiction-ideas
 - 链接：
 - - -
 
-如果要寻找值得一看的科幻作品，可以查看：[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)
-同时欢迎参与编辑“仰望星空”科幻微信群的[科幻电影/书籍/游戏推荐清单](https://shimo.im/docs/IVI6WXUgXswJnxe0)
-
-
-
 
 
 # 众生
